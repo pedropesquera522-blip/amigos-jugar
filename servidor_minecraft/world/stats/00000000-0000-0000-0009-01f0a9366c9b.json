@@ -1,0 +1,121 @@
+{
+  "stats": {
+    "minecraft:dropped": {
+      "minecraft:golden_helmet": 1
+    },
+    "minecraft:picked_up": {
+      "minecraft:coal_ore": 5,
+      "minecraft:yellow_bed": 1,
+      "minecraft:netherrack": 41,
+      "minecraft:carrot": 2,
+      "minecraft:cobblestone": 19,
+      "minecraft:flint": 7,
+      "minecraft:stone": 1,
+      "minecraft:golden_pickaxe": 1,
+      "minecraft:oxeye_daisy": 1,
+      "minecraft:oak_stairs": 2,
+      "minecraft:oak_log": 24,
+      "minecraft:wheat_seeds": 2,
+      "minecraft:glass_pane": 2,
+      "minecraft:leather_leggings": 1,
+      "minecraft:poppy": 3,
+      "minecraft:white_wool": 4,
+      "minecraft:fire_charge": 1,
+      "minecraft:chicken": 1,
+      "minecraft:golden_helmet": 2,
+      "minecraft:golden_chestplate": 1,
+      "minecraft:iron_ingot": 6,
+      "minecraft:beetroot_seeds": 1,
+      "minecraft:hay_block": 19,
+      "minecraft:obsidian": 2,
+      "minecraft:mossy_cobblestone": 2,
+      "minecraft:dandelion": 3,
+      "minecraft:iron_nugget": 14,
+      "minecraft:wheat": 171,
+      "minecraft:mutton": 6,
+      "minecraft:paper": 3
+    },
+    "minecraft:killed": {
+      "minecraft:pillager": 1,
+      "minecraft:chicken": 1,
+      "minecraft:sheep": 4,
+      "minecraft:iron_golem": 1
+    },
+    "minecraft:custom": {
+      "minecraft:interact_with_crafting_table": 4,
+      "minecraft:talked_to_villager": 4,
+      "minecraft:time_since_rest": 2038,
+      "minecraft:walk_one_cm": 47864,
+      "minecraft:leave_game": 1,
+      "minecraft:damage_taken": 601,
+      "minecraft:mob_kills": 8,
+      "minecraft:play_time": 18319,
+      "minecraft:damage_dealt": 1834,
+      "minecraft:jump": 431,
+      "minecraft:time_since_death": 12986,
+      "minecraft:drop": 1,
+      "minecraft:sprint_one_cm": 48349,
+      "minecraft:open_chest": 8,
+      "minecraft:sleep_in_bed": 2,
+      "minecraft:fall_one_cm": 14241,
+      "minecraft:total_world_time": 18319,
+      "minecraft:fly_one_cm": 77626,
+      "minecraft:crouch_one_cm": 208,
+      "minecraft:sneak_time": 727,
+      "minecraft:deaths": 1
+    },
+    "minecraft:crafted": {
+      "minecraft:stick": 8,
+      "minecraft:flint_and_steel": 1,
+      "minecraft:iron_ingot": 1,
+      "minecraft:shield": 1,
+      "minecraft:stone_axe": 1,
+      "minecraft:oak_planks": 40,
+      "minecraft:stone_pickaxe": 1,
+      "minecraft:bread": 57,
+      "minecraft:iron_pickaxe": 1,
+      "minecraft:wheat": 171
+    },
+    "minecraft:broken": {
+      "minecraft:golden_pickaxe": 1
+    },
+    "minecraft:killed_by": {
+      "minecraft:ravager": 1
+    },
+    "minecraft:mined": {
+      "minecraft:glass_pane": 2,
+      "minecraft:oak_stairs": 3,
+      "minecraft:mossy_cobblestone": 2,
+      "minecraft:dandelion": 2,
+      "minecraft:netherrack": 54,
+      "minecraft:coal_ore": 5,
+      "minecraft:wheat": 5,
+      "minecraft:carrots": 2,
+      "minecraft:hay_block": 19,
+      "minecraft:cobblestone": 19,
+      "minecraft:short_grass": 5,
+      "minecraft:yellow_bed": 1,
+      "minecraft:oak_leaves": 2,
+      "minecraft:oak_log": 24,
+      "minecraft:stone": 1
+    },
+    "minecraft:used": {
+      "minecraft:stone_axe": 68,
+      "minecraft:golden_pickaxe": 30,
+      "minecraft:netherrack": 7,
+      "minecraft:yellow_bed": 1,
+      "minecraft:fire_charge": 1,
+      "minecraft:leather_chestplate": 2,
+      "minecraft:leather_leggings": 2,
+      "minecraft:cobblestone": 2,
+      "minecraft:carrot": 2,
+      "minecraft:flint_and_steel": 2,
+      "minecraft:golden_helmet": 2,
+      "minecraft:bread": 3,
+      "minecraft:golden_chestplate": 3,
+      "minecraft:stone_pickaxe": 57,
+      "minecraft:obsidian": 2
+    }
+  },
+  "DataVersion": 4671
+}
